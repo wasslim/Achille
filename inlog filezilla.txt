@@ -1,0 +1,16 @@
+Host: ssh.achillevaningelgem.be
+
+Gebruikersnaam: achillevaningelgem.be
+
+Poort: 22
+
+Wachtwoord: HiHeAch!109
+
+Inlog gegevens 
+EmailJS
+info@achillevaningelgem.be
+HiHeAch!109
+
+Wachtwoord website
+gebruikersnaam: achillevaningelgem
+ww: Wassim123
